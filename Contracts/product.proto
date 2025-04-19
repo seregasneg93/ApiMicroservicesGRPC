@@ -1,0 +1,34 @@
+syntax = "proto3";
+
+option csharp_namespace = "Contracts";
+
+package product;
+
+service ProductServiceRpc {
+  rpc GetAll (Empty) returns (ProductListResponse);
+  rpc AddProduct (AddProductRequest) returns (AddProductResponse);
+}
+
+message Empty {}
+
+message AddProductRequest {
+  string name = 1;
+  string description = 2;
+  double  price = 3;
+}
+
+message AddProductResponse {
+  bool success = 1;
+  string message = 2;
+}
+
+message Product {
+  int32 id = 1;
+  string name = 2;
+  string description = 3;
+  double  price = 4;
+}
+
+message ProductListResponse {
+  repeated Product products = 1;
+}

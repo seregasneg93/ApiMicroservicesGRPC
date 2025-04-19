@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HomeWork\\\u041C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(ASP\u002BDocker\u002BMassTransit\u002BRabbit\u002BSignalR\u002BSqlite\u002BAngular)\\BackAps\\AppWebMain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F382EE38-C4B4-4FAD-9713-2E4A894E4009}|WebMain\\WebMain.csproj|e:\\homework\\\u043C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(asp\u002Bdocker\u002Bmasstransit\u002Brabbit\u002Bsignalr\u002Bsqlite\u002Bangular)\\backaps\\appwebmain\\webmain\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F382EE38-C4B4-4FAD-9713-2E4A894E4009}|WebMain\\WebMain.csproj|solutionrelative:webmain\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A535F-287B-450A-8F49-5A6F4704263C}|ProductService\\ProductService.csproj|e:\\homework\\\u043C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(asp\u002Bdocker\u002Bmasstransit\u002Brabbit\u002Bsignalr\u002Bsqlite\u002Bangular)\\backaps\\appwebmain\\productservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F56A535F-287B-450A-8F49-5A6F4704263C}|ProductService\\ProductService.csproj|solutionrelative:productservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BCD4A0-6E93-490B-9C97-E37C7B5509A7}|UserService\\UserService.csproj|e:\\homework\\\u043C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(asp\u002Bdocker\u002Bmasstransit\u002Brabbit\u002Bsignalr\u002Bsqlite\u002Bangular)\\backaps\\appwebmain\\userservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F3BCD4A0-6E93-490B-9C97-E37C7B5509A7}|UserService\\UserService.csproj|solutionrelative:userservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\HomeWork\\\u041C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(ASP\u002BDocker\u002BMassTransit\u002BRabbit\u002BSignalR\u002BSqlite\u002BAngular)\\BackAps\\AppWebMain\\WebMain\\Dockerfile",
+              "RelativeDocumentMoniker": "WebMain\\Dockerfile",
+              "ToolTip": "E:\\HomeWork\\\u041C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(ASP\u002BDocker\u002BMassTransit\u002BRabbit\u002BSignalR\u002BSqlite\u002BAngular)\\BackAps\\AppWebMain\\WebMain\\Dockerfile",
+              "RelativeToolTip": "WebMain\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-19T19:50:06.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\HomeWork\\\u041C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(ASP\u002BDocker\u002BMassTransit\u002BRabbit\u002BSignalR\u002BSqlite\u002BAngular)\\BackAps\\AppWebMain\\ProductService\\Dockerfile",
+              "RelativeDocumentMoniker": "ProductService\\Dockerfile",
+              "ToolTip": "E:\\HomeWork\\\u041C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(ASP\u002BDocker\u002BMassTransit\u002BRabbit\u002BSignalR\u002BSqlite\u002BAngular)\\BackAps\\AppWebMain\\ProductService\\Dockerfile",
+              "RelativeToolTip": "ProductService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-19T19:49:59.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\HomeWork\\\u041C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(ASP\u002BDocker\u002BMassTransit\u002BRabbit\u002BSignalR\u002BSqlite\u002BAngular)\\BackAps\\AppWebMain\\UserService\\Dockerfile",
+              "RelativeDocumentMoniker": "UserService\\Dockerfile",
+              "ToolTip": "E:\\HomeWork\\\u041C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(ASP\u002BDocker\u002BMassTransit\u002BRabbit\u002BSignalR\u002BSqlite\u002BAngular)\\BackAps\\AppWebMain\\UserService\\Dockerfile",
+              "RelativeToolTip": "UserService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-19T19:49:55.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
